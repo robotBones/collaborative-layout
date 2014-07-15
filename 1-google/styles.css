@@ -1,0 +1,7 @@
+.logo {
+	padding-top: 112px;
+ position: absolute;
+ left: 50%;
+ width: 269px;
+ margin-left: -134px; /* Half the width */
+}
